@@ -1,1 +1,2 @@
 # Atualizar-dados-do-banco-de-dados-
+Nesta atividade prática, aprendemos a atualizar informações dentro de um banco de dados, utilizando comandos SQL para modificar registros já existentes. Foram trabalhados comandos como UPDATE, SET e WHERE, garantindo que apenas os dados corretos fossem alterados. A atividade ajudou a compreender como manter um banco de dados organizado, corrigir informações e aplicar mudanças com segurança e precisão.
